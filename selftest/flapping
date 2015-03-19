@@ -29,3 +29,4 @@
 ^samba4.drs.delete_object.python # flakey on sn-devel
 ^samba4.blackbox.samba_tool_demote # flakey on sn-devel
 ^samba4.blackbox.dbcheck # flakey on sn-devel
+^samba3.raw.notify # Seems to flap on Ubuntu in the Catalyst Cloud
